@@ -1,4 +1,7 @@
-package com.lambdaschool.dogsinitial;
+package com.lambdaschool.dogsinitial.services;
+
+import com.lambdaschool.dogsinitial.model.Dog;
+import com.lambdaschool.dogsinitial.services.CheckDog;
 
 import java.util.ArrayList;
 
